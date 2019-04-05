@@ -1,1 +1,0 @@
-[	{		"form": "フォーム1",		"page": 1,		"name": "ピクチャー1",		"size": 7312,		"data": "...",		"formats": [			".pict"		]	},	{		"form": "フォーム2",		"page": 1,		"name": "ピクチャー1",		"size": 7312,		"data": "...",		"table": {			"name": "Table_1",			"ID": 1		},		"formats": [			".pict"		]	}]
